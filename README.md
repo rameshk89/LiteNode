@@ -1,2 +1,5 @@
-# LiteNode
-A Lightweight HTML parsing for basic formatting.
+Swift LiteNode
+
+HTML Lightweight parsing library for basic features
+
+Use Swift Package Manager to easily integrate
